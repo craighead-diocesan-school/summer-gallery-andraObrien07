@@ -7,7 +7,7 @@
 
 <main>
   <h2>SvelteKit</h2>
-
+  <img src="/Orange:noskinss.jpg" alt="Orange with no skin" />
   <p>
     Welcome to coding with SvelteKit, a modern JavaScript framework that makes
     it easy to code great apps.
