@@ -6,13 +6,23 @@
 
 <Header />
 <Nav />
+
+<main class="content section">
+    <h2 class="title">lmaop</h2>
+
+    <ul>
+        <li>dfgh</li>
+        <li>dfgh</li>
+        <li>dfgh</li>
+        <li>dfgh</li>
+        <li>cvbn</li>
+
+        <blockquote>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
+            ad unde sequi ullam, et debitis dolores quia delectus mollitia
+            fugiat facere animi dignissimos ut quas. Similique reiciendis quidem
+            minus repellendus!
+        </blockquote>
+    </ul>
+</main>
 <Footer />
-
-<!-- <header class="hero is-danger">
-    <div class="hero-body">
-        <h1 class="title">Welcome</h1>
-        <h2 class="subtitle">about me</h2>
-    </div>
-</header> -->
-
-<main></main>

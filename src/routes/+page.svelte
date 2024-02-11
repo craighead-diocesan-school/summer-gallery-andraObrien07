@@ -6,7 +6,7 @@
 
 <Header />
 <Nav />
-<main>
+<main class="content section">
   <h2>SvelteKit</h2>
   <img src="/Orange:noskinss.jpg" alt="Orange with no skin" />
   <p>
