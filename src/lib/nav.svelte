@@ -1,12 +1,10 @@
-<nav>
-    <a href="/"> Home </a>
-    <a href="/about-me"> About Me </a>
+<nav class="navbar is-link is-spaced">
+    <a class="navbar-item" href="/"> Home </a>
+    <a class="navbar-item" href="/about-me"> About Me </a>
 </nav>
 
-<style>
-    nav {
-        text-decoration: line-through;
-        text-shadow: 2px 2px orange;
-        text-align: center;
+<!-- <style>
+    .navbar {
+        color: black;
     }
-</style>
+</style> -->

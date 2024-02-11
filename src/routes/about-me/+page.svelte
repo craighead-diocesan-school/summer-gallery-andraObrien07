@@ -8,21 +8,31 @@
 <Nav />
 
 <main class="content section">
-    <h2 class="title">lmaop</h2>
+    <h2 class="title">My Summer Activities</h2>
 
-    <ul>
-        <li>dfgh</li>
-        <li>dfgh</li>
-        <li>dfgh</li>
-        <li>dfgh</li>
-        <li>cvbn</li>
-
-        <blockquote>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-            ad unde sequi ullam, et debitis dolores quia delectus mollitia
-            fugiat facere animi dignissimos ut quas. Similique reiciendis quidem
-            minus repellendus!
-        </blockquote>
-    </ul>
+    <div class="columns is-link">
+        <div class="column">
+            <h4>Summer Activity 1</h4>
+            <p>
+                I went to the river with my friend and we got the car stuck.
+                While we were digging ourselves out, I got eaten alive by
+                mosqitoes. So I was very itchy.
+            </p>
+        </div>
+        <div class="column">
+            <h4>Summer Activity 2</h4>
+            <p>
+                We went to the lakes and went biscuiting. My arms and legs were
+                very sore, but i didn't fall off so it was a win.
+            </p>
+        </div>
+        <div class="column">
+            <h4>Summer Activity 3</h4>
+            <p>
+                For new years I went to Wanaka and it was very fun because it
+                was basically a concert and the music was very good.
+            </p>
+        </div>
+    </div>
 </main>
 <Footer />
