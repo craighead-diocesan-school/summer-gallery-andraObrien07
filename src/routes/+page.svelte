@@ -1,10 +1,11 @@
 <script>
   import Header from "$lib/Header.svelte";
   import Footer from "$lib/Footer.svelte";
+  import Nav from "$lib/Nav.svelte";
 </script>
 
 <Header />
-
+<Nav />
 <main>
   <h2>SvelteKit</h2>
   <img src="/Orange:noskinss.jpg" alt="Orange with no skin" />
