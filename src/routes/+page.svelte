@@ -17,6 +17,5 @@
   </p>
 </main>
 
-<!-- <Card /> -->
 <Card />
 <Footer />
