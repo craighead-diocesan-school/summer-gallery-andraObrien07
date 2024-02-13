@@ -1,7 +1,10 @@
 <div class="card">
     <div class="card-image">
         <figure class="image is-4by3">
-            <img src="https://bulma.io/images/placeholders/1280x960.png" />
+            <img
+                src="https://bulma.io/images/placeholders/1280x960.png"
+                alt="bulma"
+            />
         </figure>
     </div>
     <!-- .card-image -->
@@ -10,7 +13,10 @@
         <div class="media">
             <div class="media-left">
                 <figure class="image is-48x48">
-                    <img src="https://bulma.io/images/placeholders/96x96.png" />
+                    <img
+                        src="https://bulma.io/images/placeholders/96x96.png"
+                        alt=" bulma"
+                    />
                 </figure>
             </div>
 
@@ -23,7 +29,7 @@
 
         <div class="content">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-            nec iaculis mauris. <a>@bulmaio</a>.
+            nec iaculis mauris. <a href="@bulmaio"> </a>
         </div>
         <!-- .content -->
     </div>
