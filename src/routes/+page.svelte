@@ -6,7 +6,8 @@
   import Card from "$lib/Card.svelte";
 </script>
 
-<Header />
+<Header title="Welcome" subtitle="Emma is great" />
+
 <Nav />
 <main class="content section">
   <h2>SvelteKit</h2>
