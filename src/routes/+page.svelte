@@ -2,7 +2,6 @@
   import Header from "$lib/Header.svelte";
   import Footer from "$lib/Footer.svelte";
   import Nav from "$lib/Nav.svelte";
-
   import Card from "$lib/Card.svelte";
 </script>
 
@@ -19,4 +18,8 @@
 </main>
 
 <Card />
-<Footer />
+<Footer
+  author="&copy; Craighead Diocesan School 2024"
+  organisation="andra.org.nz"
+  date="14/02/2024"
+/>

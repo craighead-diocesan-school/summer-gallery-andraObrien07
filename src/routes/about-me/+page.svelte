@@ -39,4 +39,8 @@
     </div>
 </main>
 
-<Footer />
+<Footer
+    author="&copy; my holidays 2024 - AndraC"
+    organisation="emma.org.nz"
+    date="18/09/2007"
+/>
